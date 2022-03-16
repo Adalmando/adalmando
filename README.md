@@ -1,6 +1,8 @@
-Hi, i'm Adalmando!
+## Hi, i'm Adalmando!
+
 Information Systems student and
 a great lover of programming and technologies.
+Area I intend to follow: back-end programming with java. 
  
 
   <a href="https://github.com/adalmando">
