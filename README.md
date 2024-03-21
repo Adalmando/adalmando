@@ -2,7 +2,7 @@
 
 Information Systems student and
 a great lover of programming and technologies.
-Area I intend to follow: back-end programming with java. 
+Area I intend to follow: full-stack programming with java/node/react and angular. 
  
 
   <a href="https://github.com/adalmando">
